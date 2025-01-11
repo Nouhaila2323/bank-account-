@@ -1,6 +1,6 @@
 # Basic Bank Account Management System
 
-Welcome to the Basic Bank Account Management System, a simple Python program to manage bank accounts using classes and objects.
+Welcome to Nouhaila'sBasic Bank Account Management System, a simple Python program to manage bank accounts using classes and objects.
 
 ## Table of Contents
 
@@ -28,18 +28,19 @@ This project provides a basic command-line interface for managing bank accounts,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/stfn333/basic-account-management-system.git
+git clone https://github.com/Nouhaila2323/bank-account-.git
+
 ```
 2. Navigate to the project directory:
 
 ```bash
-cd basic-account-management-system
+cd bank-account-.git
 ```
 
 3. Run the program:
 
 ```bash
-python basic_account_management_system.py
+python bank-account-.git
 ```
 
 ## Usage
